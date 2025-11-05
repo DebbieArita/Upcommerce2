@@ -1,0 +1,51 @@
+serverFiles:
+# Insert the correct values in all parameters marked with "#TODO"
+  alerting_rules.yml:
+      groups:
+      - name: NodeDown
+        rules:
+        # Alert for any instance that is unreachable for >5 minutes.
+        - alert: InstanceDown
+          expr: #TODO
+          for: 2m
+          labels:
+            severity: page
+          annotations:
+            host: #TODO
+            summary: "Instance down"
+            description: #TODO
+      - name: low_memory_alert
+        rules:
+        - alert: LowMemory
+          expr: #TODO
+          for: 2m
+          labels:
+            severity: warning
+          annotations:
+            host: #TODO
+            summary: #TODO
+            description: #TODO
+        - alert: KubePersistentVolumeErrors
+          expr: #TODO
+          for: 2m
+          labels:
+            severity: critical
+          annotations:
+            description: #TODO
+            summary: PersistentVolume is having issues with provisioning.
+        - alert: KubePodCrashLooping
+          expr: #TODO
+          for: 2m
+          labels:
+            severity: warning
+          annotations:
+            description: #TODO
+            summary: Pod is crash looping.
+        - alert: KubePodNotReady
+          expr: #TODO
+          for: 2m
+          labels:
+            severity: warning
+          annotations:
+            description: #TODO
+            summary: Pod has been in a non-ready state for more than 2 minutes.

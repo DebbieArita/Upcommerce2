@@ -1,0 +1,1637 @@
+E0424 18:06:45.921482    5830 memcache.go:265] couldn't get current server API group list: Get "https://192.168.49.2:8443/api?timeout=32s": dial tcp 192.168.49.2:8443: connect: no route to host
+E0424 18:06:48.993131    5830 memcache.go:265] couldn't get current server API group list: Get "https://192.168.49.2:8443/api?timeout=32s": dial tcp 192.168.49.2:8443: connect: no route to host
+E0424 18:06:52.065152    5830 memcache.go:265] couldn't get current server API group list: Get "https://192.168.49.2:8443/api?timeout=32s": dial tcp 192.168.49.2:8443: connect: no route to host
+E0424 18:06:55.137149    5830 memcache.go:265] couldn't get current server API group list: Get "https://192.168.49.2:8443/api?timeout=32s": dial tcp 192.168.49.2:8443: connect: no route to host
+E0424 18:06:58.209127    5830 memcache.go:265] couldn't get current server API group list: Get "https://192.168.49.2:8443/api?timeout=32s": dial tcp 192.168.49.2:8443: connect: no route to host
+Unable to connect to the server: dial tcp 192.168.49.2:8443: connect: no route to host
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+E0424 18:07:58.304495    7250 memcache.go:265] couldn't get current server API group list: Get "https://192.168.49.2:8443/api?timeout=32s": dial tcp 192.168.49.2:8443: connect: connection refused
+E0424 18:07:58.305271    7250 memcache.go:265] couldn't get current server API group list: Get "https://192.168.49.2:8443/api?timeout=32s": dial tcp 192.168.49.2:8443: connect: connection refused
+E0424 18:07:58.308204    7250 memcache.go:265] couldn't get current server API group list: Get "https://192.168.49.2:8443/api?timeout=32s": dial tcp 192.168.49.2:8443: connect: connection refused
+E0424 18:07:58.308474    7250 memcache.go:265] couldn't get current server API group list: Get "https://192.168.49.2:8443/api?timeout=32s": dial tcp 192.168.49.2:8443: connect: connection refused
+E0424 18:07:58.309844    7250 memcache.go:265] couldn't get current server API group list: Get "https://192.168.49.2:8443/api?timeout=32s": dial tcp 192.168.49.2:8443: connect: connection refused
+The connection to the server 192.168.49.2:8443 was refused - did you specify the right host or port?
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 0
+Waiting for 60 seconds before checking again...
+Current restarts: 0
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 0
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 0
+Waiting for 60 seconds before checking again...
+Current restarts: 1
+Waiting for 60 seconds before checking again...
+Current restarts: 1
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 1
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 1
+Waiting for 60 seconds before checking again...
+Current restarts: 1
+Waiting for 60 seconds before checking again...
+Current restarts: 2
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 2
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 2
+Waiting for 60 seconds before checking again...
+Current restarts: 2
+Waiting for 60 seconds before checking again...
+Current restarts: 2
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 2
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 2
+Waiting for 60 seconds before checking again...
+Current restarts: 3
+Waiting for 60 seconds before checking again...
+Current restarts: 3
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 3
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 3
+Waiting for 60 seconds before checking again...
+Current restarts: 3
+Waiting for 60 seconds before checking again...
+Current restarts: 3
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 3
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+Current restarts: 4
+Exceeded maximum restarts. Scaling down deployment.
+deployment.apps/swype-app scaled
+Current restarts: 4
+Exceeded maximum restarts. Scaling down deployment.
+deployment.apps/swype-app scaled
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
+error: error executing jsonpath "{.items[0].status.containerStatuses[0].restartCount}": Error executing template: array index out of bounds: index 0, length 0. Printing more information for debugging the template:
+	template was:
+		{.items[0].status.containerStatuses[0].restartCount}
+	object given to jsonpath engine was:
+		map[string]interface {}{"apiVersion":"v1", "items":[]interface {}{}, "kind":"List", "metadata":map[string]interface {}{"resourceVersion":""}}
+
+
+Current restarts: 
+watcher.sh: line 17: [: : integer expression expected
+Waiting for 60 seconds before checking again...
