@@ -122,7 +122,7 @@ Upcommerce2 automates this process through a **Watcher Script**, **Kubernetes ob
 
 ---
 
-## 🧠 Future Improvements
+## 🧠 Improvements to consider...
 
 | Category      | Suggested Improvement                       | Description                                               |
 | ------------- | ------------------------------------------- | --------------------------------------------------------- |
@@ -136,5 +136,5 @@ Upcommerce2 automates this process through a **Watcher Script**, **Kubernetes ob
 | Logging       | Integrate Loki or ELK Stack                 | Centralize logs for better traceability                   |
 
 ---
-
+Courtesy of SRE with Google Course!!!
 
